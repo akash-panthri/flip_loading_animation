@@ -1,0 +1,1 @@
+This is project which shows flip loading animation effect using html and css. I coded this code while watching https://youtu.be/sGgVX9AVuXc
